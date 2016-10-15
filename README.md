@@ -6,6 +6,6 @@ The main output is a spreadsheet that describes a number of areas of responsibil
 along with the PCI DSS requirements associated with the that responsibility.
 The spreadsheet and requirements won't be an accurate picture of your airline or airort, but it will be a great place to start.
 Feel free to use it, modify it and improve it - and please share your experience.
-This is the work of many people, the most credit lies with James Knable of Rockwell Collins Arinc for maintaining the project
+This is the work of many people, the most credit lies with Jim Knaeble of Rockwell Collins Arinc for maintaining the project
 over a number of years.
 This repository is 'managed' by John Elliott - who is not a common use vendor (or an airport). 
